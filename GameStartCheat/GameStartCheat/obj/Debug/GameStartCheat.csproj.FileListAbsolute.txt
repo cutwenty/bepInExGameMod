@@ -1,0 +1,6 @@
+C:\Users\Windows10\Desktop\code\modding\workspace\GameStartCheat\GameStartCheat\bin\Debug\GameStartCheat.dll
+C:\Users\Windows10\Desktop\code\modding\workspace\GameStartCheat\GameStartCheat\bin\Debug\GameStartCheat.pdb
+C:\Users\Windows10\Desktop\code\modding\workspace\GameStartCheat\GameStartCheat\obj\Debug\GameStartCheat.csproj.AssemblyReference.cache
+C:\Users\Windows10\Desktop\code\modding\workspace\GameStartCheat\GameStartCheat\obj\Debug\GameStartCheat.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\Desktop\code\modding\workspace\GameStartCheat\GameStartCheat\obj\Debug\GameStartCheat.dll
+C:\Users\Windows10\Desktop\code\modding\workspace\GameStartCheat\GameStartCheat\obj\Debug\GameStartCheat.pdb
